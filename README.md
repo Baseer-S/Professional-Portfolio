@@ -43,7 +43,8 @@ You're here! This is a responsive developer portfolio to showcase my skills and 
 
 ## 📷 ScreenShot
 
-![Portfolio Preview](https://github.com/user-attachments/assets/73c0133a-b737-4418-922f-76fde759dc8c)
+![Portfolio Preview](https://github.com/user-attachments/assets/f77590b1-f68a-4b51-bba8-cecca6e03ecc).
+
 
 
 
