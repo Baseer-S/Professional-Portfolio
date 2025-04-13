@@ -37,7 +37,7 @@ You're here! This is a responsive developer portfolio to showcase my skills and 
 
 | Frontend        | Backend             | Database       | Tools        |
 |------------------|----------------------|----------------|--------------|
-| HTML, CSS, JS, React | Java (Spring Boot) | MySQL,  | Git, GitHub, VS Code,intellij |
+| HTML, CSS, JS, React | Java (Spring Boot) | MySQL  | Git, GitHub, VS Code,intellij |
 
 ---
 
