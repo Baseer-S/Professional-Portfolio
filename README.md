@@ -12,9 +12,9 @@ I'm currently exploring the world of **full-stack development** and have hands-o
 
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React.js  
 - ⚙️ **Backend**: Java with Spring Boot  
-- 🛢️ **Database**: MySQL, MongoDB  
+- 🛢️ **Database**: MySQL 
 - 🧠 Also exploring AI tools & Chrome Extensions  
-- 💼 Actively learning, building, and contributing on GitHub
+- 💼 Actively learning, building a projects.
 
 My goal is to work with **product-based companies** and be part of impactful tech projects.
 
